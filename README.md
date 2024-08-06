@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Utilizei o Elevenlabs para fazer o audio
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Elevenlabs
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Segui o passo a passo do site para que foi muito fácil e gravei a minha propria voz
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Li um paragrafo de um texto de um site sobre a história do mascote do Android
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Integração de dados. Sistemas de integração de dados ajudam a sincronizar ativos e objetos específicos na indústria, implementando o compartilhamento e correlação de informações em tempo real. 
 ```
 
 ### Exemplos e Insigths
